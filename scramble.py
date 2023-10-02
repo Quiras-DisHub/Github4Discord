@@ -39,7 +39,7 @@ while True:
 
     while True:
         guess = input(f"\nPlease try to unscramble this word: {scrambledWord}\n\t> ")
-        if guess == scrambledWord:
+        if guess == keyWord:
             print(f"You're right, {guess} was the answer!")
             score += 1
         elif guess != scrambledWord:
