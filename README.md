@@ -6,6 +6,7 @@ lost count. I should have kept note of everyone so I am sorry that I don't
 have all your names. But none the less Thank You, this project is as much 
 yours as it is mine. We have all made this reality together.
 
+~~~Retro Interface Program~~~
 This is a program ment to mimic the iconic computer scene in the movie "War
 Games" This is broken down into individual python scripts so I can easily
 edit things across the entire program.
@@ -35,3 +36,9 @@ downloadBar.py
 tts.py
 	These are both system scripts that simulate file downloads and text
 to speech within the retroInterface.
+
+
+~~~scramble.py~~~
+This code is a simple word scramble game. Words are taken from a dictionary
+file so you may encounter words that are new to you. This will be a good
+way to learn new words if you want to.
